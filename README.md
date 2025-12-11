@@ -30,7 +30,7 @@ modified from https://github.com/HomeOfVapourSynthEvolution/VapourSynth-VMAF.
 
 ## Compilation
 Requires `libvmaf` build with cuda support.
-
+Optional patch for libvmaf under patches dir.
 ```
 meson build
 ninja -C build
