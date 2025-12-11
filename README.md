@@ -1,5 +1,6 @@
 # vapoursynth-vmafcuda
 vapoursynth-vmafcuda, based on https://github.com/Netflix/vmaf.
+
 modified from https://github.com/HomeOfVapourSynthEvolution/VapourSynth-VMAF.
 
 ## Usage
@@ -30,6 +31,7 @@ modified from https://github.com/HomeOfVapourSynthEvolution/VapourSynth-VMAF.
 
 ## Compilation
 Requires `libvmaf` build with cuda support.
+
 Optional patch for libvmaf under patches dir.
 ```
 meson build
